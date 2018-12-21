@@ -1,0 +1,6 @@
+D:\Study\C#OOP\SanCeng\SDAL\bin\Debug\SDAL.dll
+D:\Study\C#OOP\SanCeng\SDAL\bin\Debug\SDAL.pdb
+D:\Study\C#OOP\SanCeng\SDAL\obj\Debug\SDAL.csprojAssemblyReference.cache
+D:\Study\C#OOP\SanCeng\SDAL\obj\Debug\SDAL.csproj.CoreCompileInputs.cache
+D:\Study\C#OOP\SanCeng\SDAL\obj\Debug\SDAL.dll
+D:\Study\C#OOP\SanCeng\SDAL\obj\Debug\SDAL.pdb

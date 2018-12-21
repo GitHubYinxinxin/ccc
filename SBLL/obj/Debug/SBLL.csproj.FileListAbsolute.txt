@@ -1,0 +1,9 @@
+D:\Study\C#OOP\SanCeng\SBLL\bin\Debug\SBLL.dll
+D:\Study\C#OOP\SanCeng\SBLL\bin\Debug\SBLL.pdb
+D:\Study\C#OOP\SanCeng\SBLL\bin\Debug\SDAL.dll
+D:\Study\C#OOP\SanCeng\SBLL\bin\Debug\SDAL.pdb
+D:\Study\C#OOP\SanCeng\SBLL\obj\Debug\SBLL.csprojAssemblyReference.cache
+D:\Study\C#OOP\SanCeng\SBLL\obj\Debug\SBLL.csproj.CoreCompileInputs.cache
+D:\Study\C#OOP\SanCeng\SBLL\obj\Debug\SBLL.csproj.CopyComplete
+D:\Study\C#OOP\SanCeng\SBLL\obj\Debug\SBLL.dll
+D:\Study\C#OOP\SanCeng\SBLL\obj\Debug\SBLL.pdb
